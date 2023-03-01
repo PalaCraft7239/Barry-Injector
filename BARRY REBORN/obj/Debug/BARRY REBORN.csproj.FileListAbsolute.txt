@@ -1,0 +1,15 @@
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\FastColoredTextBox.dll
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\FlatUI.dll
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\WeAreDevs_API.dll
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\BARRY_REBORN.Form1.resources
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\BARRY REBORN.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\BARRY REBORN.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\BARRY REBORN.csproj.CopyComplete
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\BARRY REBORN.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\Barry Executor.exe.config
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\Barry Executor.exe
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\bin\Debug\Barry Executor.pdb
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\Barry_Executor.Properties.Resources.resources
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\Barry Executor.exe
+C:\Users\Hugo\Desktop\BARRY REBORN\BARRY REBORN\obj\Debug\Barry Executor.pdb
