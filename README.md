@@ -1,4 +1,4 @@
-# Barry-Injector
+# Barry-Injector [PATCHED WAIT FOR UPDATE]
 
 Le Barry Injector est un injecteur de script en lua pour Roblox. 
 Créé avec l'api WeAreDevs. 
